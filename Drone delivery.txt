@@ -1,0 +1,10 @@
+Drone delivery
+
+Let's create a brand new express delivery of pizza with the help of drones.
+
+  * The package can be delivered to any building floor;
+  * No need to interact with a concierge;
+  * Traffic jams do not matter anymore;
+  * It's fun
+  
+Profit and happy clients. Win-win!
