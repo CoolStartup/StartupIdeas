@@ -1,0 +1,47 @@
+//Небольшая программа на языке СИ для проверки знания таблицы умножения для выполнения ДЗ по pull-requests)))
+// В рамках видео курса Git-быстрый старт
+#include <stdio.h>
+#include <conio.h>
+#include <stdlib.h>
+#include <time.h>
+
+void main()
+{
+	int numb1, numb2;
+	int res;
+	int otv;
+	int score = 0;
+	int i;
+	time_t t;
+	printf("\***Simulator for quick memorization of the multiplication table***\n");
+	printf("After the example,enter the answer and click <Enter>\n");
+	srand((unsigned)time(&t));;
+	for (i = 1; i <= 10; i++) {
+		numb1 = rand() % 7 + 2;
+		numb2 = rand() % 7 + 2;
+		res = numb1 * numb2;
+		printf("%ix%i = ", numb1, numb2);
+			scanf("%i", &otv);
+		if (otv == res)
+			printf("\n This is the correct answer! Continue...\n", score++);
+		else printf("You entered a wrong answer! %ix%i=%i\nContinue...\n",
+			numb1, numb2, res);
+	}
+	printf("\nTotal correct answers: %i\n", score);
+	printf("Your ball: ");
+	switch (score) {
+
+	case 10: puts("5");
+		break;
+	case 9: puts("4");
+		break;
+	case 8: puts("4");
+		break;
+	case 7: puts("3");
+		break;
+	default: puts("2");
+		break;
+	}
+	printf("Click to continue <Enter>\n");
+	getch();
+}
