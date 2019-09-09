@@ -1,0 +1,33 @@
+<meta charset="utf-8">
+<script type="text/javascript">
+
+
+	function factorial(n){
+		var result = 1;
+		for(var i = 1; i <= n; i++){
+			result = result * i; 
+		}
+		return result;
+	}
+
+// !5 = !4 * 5;
+// !4 = !3 * 4;
+// !3 = !2 * 3;
+// !2 = !1 * 2;
+// !1 = !0 * 1;
+// !0 = 1;
+
+function recurciveFactorial(n){
+	if(n == 0)
+		return 1;
+	else 
+		return recurciveFactorial(n - 1) * n;
+}
+
+	var n = prompt("Введите число: ");
+	var rf = recurciveFactorial(n);
+
+	alert("Факториал числа " + n + " равен: " + rf);
+
+	
+</script>
