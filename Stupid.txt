@@ -1,0 +1,1 @@
+prin("this is stupid ideas")
