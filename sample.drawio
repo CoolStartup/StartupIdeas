@@ -1,35 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2020-11-10T10:29:57.245Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="G0lYJfK-qq2YzhGQF7EF" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-10T12:15:06.050Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="DedssEGihILy1Of3Xz-5" version="13.9.2" type="github">
   <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
     <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dI4qYqqZvMvF2SmlzUJT-21611" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fillOpacity=40;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="180" y="480" width="455" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="dI4qYqqZvMvF2SmlzUJT-21612" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;fillOpacity=40;" vertex="1" parent="1">
+          <mxGeometry x="522.25" y="480" width="454.5" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="dI4qYqqZvMvF2SmlzUJT-21606" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;fillOpacity=40;" vertex="1" parent="1">
+          <mxGeometry x="420" y="200" width="659" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="dI4qYqqZvMvF2SmlzUJT-21607" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fillOpacity=40;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="655" height="415" as="geometry" />
+        </mxCell>
         <mxCell id="dI4qYqqZvMvF2SmlzUJT-21598" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;fillOpacity=40;" vertex="1" parent="1">
-          <mxGeometry x="510" y="265" width="659" height="415" as="geometry" />
-        </mxCell>
-        <mxCell id="dI4qYqqZvMvF2SmlzUJT-21592" value="&lt;h1&gt;Технологи&lt;/h1&gt;&lt;p&gt;Высвобождение ресурса для создания нового и собственного развития&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="720" width="190" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="dI4qYqqZvMvF2SmlzUJT-21593" value="&lt;h1&gt;Продажи&lt;/h1&gt;&lt;p&gt;Высвобождение временного ресурса для развития клиентов&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="770" y="720" width="190" height="120" as="geometry" />
+          <mxGeometry x="420" y="200" width="659" height="415" as="geometry" />
         </mxCell>
         <mxCell id="dI4qYqqZvMvF2SmlzUJT-21594" value="&lt;h1 style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Быстрее и легче адаптировать новых сотрудников&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;Ставить планы и задачи филиалам основываясь на большем кол-ве данных&lt;/p&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;align=center;" vertex="1" parent="1">
-          <mxGeometry x="890" y="390" width="220" height="132.5" as="geometry" />
+          <mxGeometry x="800" y="338.75" width="220" height="132.5" as="geometry" />
         </mxCell>
         <mxCell id="dI4qYqqZvMvF2SmlzUJT-21597" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fillOpacity=40;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="210" y="265" width="655" height="415" as="geometry" />
+          <mxGeometry x="120" y="200" width="655" height="415" as="geometry" />
         </mxCell>
-        <mxCell id="dI4qYqqZvMvF2SmlzUJT-21595" value="&lt;h1 style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Понимать динамику структуры рынка конечных продуктов &lt;/span&gt;онлайн&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;Концентрировать ресурсы на интересных направлениях&lt;/p&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;Формулировать стратегию&lt;/p&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;Захватывать инициативу&lt;/p&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;align=center;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="570" y="370" width="250" height="200" as="geometry" />
+        <mxCell id="dI4qYqqZvMvF2SmlzUJT-21595" value="&lt;h1 style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Понимать динамику структуры рынка конечных продуктов &lt;/span&gt;онлайн&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;Формулировать стратегию&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;Концентрировать ресурсы на интересных направлениях&lt;/p&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;Захватывать инициативу&lt;/p&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/p&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;align=center;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="460" y="338.75" width="250" height="411.25" as="geometry" />
         </mxCell>
-        <mxCell id="dI4qYqqZvMvF2SmlzUJT-21600" value="&lt;h1 style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-size: 16px ; font-weight: normal&quot;&gt;Выявлять потенциально интересные ингредиенты&lt;/span&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;Выявлять резервы роста текущего ассортимента&lt;/p&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;Формировать адресные предложения менеджерам тех клиентов, которым это предложение наиболее интересно&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;align=center;" vertex="1" parent="1">
-          <mxGeometry x="270" y="350" width="229" height="212.5" as="geometry" />
+        <mxCell id="dI4qYqqZvMvF2SmlzUJT-21600" value="&lt;h1 style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-size: 16px ; font-weight: normal&quot;&gt;Выявлять потенциально интересные ингредиенты&lt;/span&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;Выявлять резервы роста текущего ассортимента&lt;/p&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;Формировать адресное предложение менеджерам тех клиентов, которым оно наиболее интересно&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="298.75" width="229" height="212.5" as="geometry" />
         </mxCell>
-        <mxCell id="dI4qYqqZvMvF2SmlzUJT-21602" value="Продакты" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=23;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="477.5" y="280" width="130" height="50" as="geometry" />
+        <mxCell id="dI4qYqqZvMvF2SmlzUJT-21602" value="Продактам" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=23;fontStyle=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="215" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dI4qYqqZvMvF2SmlzUJT-21603" value="Руководство" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=23;fontStyle=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="800" y="280" width="130" height="50" as="geometry" />
+        <mxCell id="dI4qYqqZvMvF2SmlzUJT-21603" value="Руководству" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=23;fontStyle=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="215" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dI4qYqqZvMvF2SmlzUJT-21613" value="&lt;h1 style=&quot;font-size: 16px&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Сосредоточиться на развитии наиболее перспективных клиентов&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;span&gt;Быстро формировать релевантные предложения клиентам&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="720" y="572.5" width="220" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="dI4qYqqZvMvF2SmlzUJT-21614" value="&lt;h1 style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Создавать новые технологические решения&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 16px&quot;&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Сохранять и делать доступными результаты своего труда&lt;/span&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 16px&quot;&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="570" width="200" height="186.25" as="geometry" />
+        </mxCell>
+        <mxCell id="dI4qYqqZvMvF2SmlzUJT-21615" value="Продажам" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=23;fontStyle=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="827" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dI4qYqqZvMvF2SmlzUJT-21616" value="Технологам" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=23;fontStyle=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="827" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
